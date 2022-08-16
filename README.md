@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcosgb22
 - 👀 I’m interested in PHP for networking
-- 🌱 I’m currently learning Savix 
+- 🌱 I’m currently learning Zabbix 
 - 💞️ I’m looking to collaborate on uses and tools
 - 📫 How to reach me marcosgb22@gmail.com
 
